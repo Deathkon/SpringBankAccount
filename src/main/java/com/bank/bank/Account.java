@@ -21,9 +21,4 @@ public class Account{
     public String getAccountNumber(){
         return AccountNumber;
     }
-    // override toString method
-    // @Override
-    // public String toString(){
-    //     return "Account Owner: " + AccountOwner + "\n" + "Account Number: " + AccountNumber + "\n" + "Balance: " + balance + "\n";
-    // }
 }
